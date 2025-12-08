@@ -604,7 +604,7 @@ box-shadow: 0 4px 8px  rgba(0, 0, 0, 0.4);
 footer{
 background-color: black;
 color:  orangered;
-position: relative;
+position: fixed;
 left: 0;
 right: 0;
 
@@ -620,4 +620,5 @@ font-size:16px;;
 font-style:italize;
 padding: 20px;
 }
+
 
