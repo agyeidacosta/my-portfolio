@@ -27,16 +27,14 @@ align-items: center;
 font-size: 18px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 height: 250px;
-width: 500px;
 border-radius: 13px;
 margin: 120px auto;
 cursor: pointer;
-transition: width 2s ease-in 1s;
+
 }
 
-.mult:hover{
-width: 100%;
-}
+
+
 
 
 .cass{
@@ -99,5 +97,6 @@ color: orangered;
 
 
 }
+
 
 
