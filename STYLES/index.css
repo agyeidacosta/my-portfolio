@@ -158,6 +158,7 @@ padding-top: 120px;
 padding-bottom: 120px ;
 height: 100vh;
 background:linear-gradient( 210deg, black, orangered);
+color: white;
 
 }
 
@@ -168,6 +169,7 @@ background:linear-gradient( 210deg, black, orangered);
 @media(max-width:600px){
 .first{
 padding-bottom: 600px;
+color:white;
 }
 
 
